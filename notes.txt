@@ -1,0 +1,4 @@
+babel is configured in our project as a transpiling bundler 
+it converts the syntax sugar code into normal es5 code
+
+when using merge the second arg overrides the common configs
